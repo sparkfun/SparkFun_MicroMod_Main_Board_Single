@@ -26783,7 +26783,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="R3" library="SparkFun-Resistors" deviceset="2.0KOHM" device="-0603-1/10W-5%" value="2.0k"/>
 <part name="R4" library="SparkFun-Resistors" deviceset="10KOHM" device="-0603-1/10W-1%" value="10k"/>
 <part name="GND3" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="Q1" library="SparkFun-DiscreteSemi" deviceset="MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
+<part name="Q1" library="SparkFun-DiscreteSemi" deviceset="MOSFET_PCH" device="-DMG2307L" value="3.1A/30V/105mΩ"/>
 <part name="GND5" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 </parts>
 <sheets>

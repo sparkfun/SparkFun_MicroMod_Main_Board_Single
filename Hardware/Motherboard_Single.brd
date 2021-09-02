@@ -221,8 +221,8 @@
 <wire x1="43.18" y1="60.96" x2="43.18" y2="27.94" width="0.254" layer="21" style="shortdash"/>
 <wire x1="77.47" y1="60.96" x2="81.28" y2="60.96" width="0.254" layer="21" style="shortdash"/>
 <wire x1="81.28" y1="60.96" x2="81.28" y2="27.94" width="0.254" layer="21" style="shortdash"/>
-<wire x1="81.28" y1="6.35" x2="81.28" y2="1.27" width="0.254" layer="21" style="shortdash"/>
-<wire x1="43.18" y1="7.62" x2="43.18" y2="1.27" width="0.254" layer="21" style="shortdash"/>
+<wire x1="81.28" y1="15.24" x2="81.28" y2="1.27" width="0.254" layer="21" style="shortdash"/>
+<wire x1="43.18" y1="15.24" x2="43.18" y2="1.27" width="0.254" layer="21" style="shortdash"/>
 <wire x1="20.701" y1="27.305" x2="17.907" y2="27.305" width="0.254" layer="21" style="shortdash"/>
 <wire x1="17.907" y1="27.305" x2="17.907" y2="30.734" width="0.254" layer="21" style="shortdash"/>
 <wire x1="37.211" y1="27.305" x2="40.005" y2="27.305" width="0.254" layer="21" style="shortdash"/>
@@ -1980,6 +1980,127 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="-0.975621875" y="0.133925"/>
 <vertex x="-1.026103125" y="0.12578125"/>
 <vertex x="-1.0681875" y="0.09673125"/>
+</polygon>
+</package>
+<package name="SFE_LOGO_FLAME_.2">
+<description>&lt;h3&gt;SparkFun Flame Logo - 0.2" Height - Silkscreen&lt;/h3&gt;
+&lt;p&gt;SparkFun Flame Logo&lt;/p&gt;
+&lt;p&gt;Devices using:
+&lt;ul&gt;&lt;li&gt;SFE_LOGO_FLAME&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</description>
+<polygon width="0.0762" layer="21">
+<vertex x="1.088" y="1.756"/>
+<vertex x="1.088" y="1.696"/>
+<vertex x="1.098" y="1.646"/>
+<vertex x="1.078" y="1.526"/>
+<vertex x="1.048" y="1.476"/>
+<vertex x="0.998" y="1.426"/>
+<vertex x="0.928" y="1.396"/>
+<vertex x="0.858" y="1.396"/>
+<vertex x="0.718" y="1.436"/>
+<vertex x="0.638" y="1.476"/>
+<vertex x="0.498" y="1.576"/>
+<vertex x="0.428" y="1.636"/>
+<vertex x="0.378" y="1.686"/>
+<vertex x="0.328" y="1.766"/>
+<vertex x="0.288" y="1.826"/>
+<vertex x="0.268" y="1.896"/>
+<vertex x="0.258" y="1.956"/>
+<vertex x="0.268" y="2.016"/>
+<vertex x="0.288" y="2.066"/>
+<vertex x="0.318" y="2.126"/>
+<vertex x="0.358" y="2.176"/>
+<vertex x="0.438" y="2.246"/>
+<vertex x="0.518" y="2.286"/>
+<vertex x="0.598" y="2.306"/>
+<vertex x="0.688" y="2.316"/>
+<vertex x="0.818" y="2.316"/>
+<vertex x="0.858" y="2.306"/>
+<vertex x="0.868" y="2.306"/>
+<vertex x="0.838" y="2.326"/>
+<vertex x="0.768" y="2.376"/>
+<vertex x="0.648" y="2.446"/>
+<vertex x="0.498" y="2.506"/>
+<vertex x="0.318" y="2.556"/>
+<vertex x="0.118" y="2.566"/>
+<vertex x="-0.102" y="2.516"/>
+<vertex x="-0.332" y="2.396"/>
+<vertex x="-0.502" y="2.256"/>
+<vertex x="-0.612" y="2.096"/>
+<vertex x="-0.672" y="1.926"/>
+<vertex x="-0.672" y="1.756"/>
+<vertex x="-0.622" y="1.586"/>
+<vertex x="-0.532" y="1.406"/>
+<vertex x="-0.402" y="1.236"/>
+<vertex x="-0.232" y="1.066"/>
+<vertex x="-0.102" y="0.916"/>
+<vertex x="-0.032" y="0.766"/>
+<vertex x="-0.032" y="0.626"/>
+<vertex x="-0.072" y="0.496"/>
+<vertex x="-0.162" y="0.396"/>
+<vertex x="-0.282" y="0.316"/>
+<vertex x="-0.422" y="0.276"/>
+<vertex x="-0.582" y="0.276"/>
+<vertex x="-0.692" y="0.306"/>
+<vertex x="-0.782" y="0.336"/>
+<vertex x="-0.852" y="0.396"/>
+<vertex x="-0.912" y="0.456"/>
+<vertex x="-0.942" y="0.516"/>
+<vertex x="-0.962" y="0.586"/>
+<vertex x="-0.962" y="0.656"/>
+<vertex x="-0.942" y="0.716"/>
+<vertex x="-0.912" y="0.756"/>
+<vertex x="-0.872" y="0.796"/>
+<vertex x="-0.822" y="0.836"/>
+<vertex x="-0.782" y="0.866"/>
+<vertex x="-0.732" y="0.886"/>
+<vertex x="-0.672" y="0.916"/>
+<vertex x="-0.662" y="0.926"/>
+<vertex x="-0.672" y="0.926"/>
+<vertex x="-0.702" y="0.936"/>
+<vertex x="-0.752" y="0.956"/>
+<vertex x="-0.822" y="0.966"/>
+<vertex x="-1.002" y="0.966"/>
+<vertex x="-1.102" y="0.946"/>
+<vertex x="-1.212" y="0.916"/>
+<vertex x="-1.312" y="0.876"/>
+<vertex x="-1.402" y="0.816"/>
+<vertex x="-1.482" y="0.736"/>
+<vertex x="-1.552" y="0.646"/>
+<vertex x="-1.612" y="0.536"/>
+<vertex x="-1.652" y="0.396"/>
+<vertex x="-1.672" y="0.236"/>
+<vertex x="-1.682" y="0.046"/>
+<vertex x="-1.682" y="-2.524"/>
+<vertex x="-1.672" y="-2.504"/>
+<vertex x="-1.632" y="-2.464"/>
+<vertex x="-1.572" y="-2.394"/>
+<vertex x="-1.502" y="-2.304"/>
+<vertex x="-1.412" y="-2.204"/>
+<vertex x="-1.312" y="-2.084"/>
+<vertex x="-1.202" y="-1.964"/>
+<vertex x="-1.082" y="-1.834"/>
+<vertex x="-0.952" y="-1.694"/>
+<vertex x="-0.842" y="-1.564"/>
+<vertex x="-0.732" y="-1.454"/>
+<vertex x="-0.632" y="-1.364"/>
+<vertex x="-0.532" y="-1.294"/>
+<vertex x="-0.422" y="-1.244"/>
+<vertex x="-0.312" y="-1.214"/>
+<vertex x="0.078" y="-1.214"/>
+<vertex x="0.318" y="-1.184"/>
+<vertex x="0.538" y="-1.124"/>
+<vertex x="0.738" y="-1.034"/>
+<vertex x="0.928" y="-0.914"/>
+<vertex x="1.098" y="-0.784"/>
+<vertex x="1.248" y="-0.624"/>
+<vertex x="1.388" y="-0.444"/>
+<vertex x="1.578" y="-0.074"/>
+<vertex x="1.678" y="0.286"/>
+<vertex x="1.698" y="0.636"/>
+<vertex x="1.648" y="0.966"/>
+<vertex x="1.548" y="1.246"/>
+<vertex x="1.418" y="1.486"/>
+<vertex x="1.248" y="1.656"/>
 </polygon>
 </package>
 </packages>
@@ -8961,10 +9082,10 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="PROD_ID" value="RES-00824" x="0.762" y="78.613" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="7.112" y="71.501" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="Q1" library="SparkFun-DiscreteSemi" package="SOT23-3" value="20V/4.2A/52mΩ/1.4W" x="10.668" y="18.161" smashed="yes" rot="R90">
+<element name="Q1" library="SparkFun-DiscreteSemi" package="SOT23-3" value="3.1A/30V/105mΩ" x="10.668" y="18.161" smashed="yes" rot="R90">
 <attribute name="NAME" x="10.668" y="16.51" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
-<attribute name="PROD_ID" value="TRANS-14388" x="8.128" y="18.161" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="10.668" y="19.812" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
+<attribute name="PROD_ID" value="TRANS-11308" x="8.128" y="18.161" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" value="3.1A/30V/105mΩ" x="10.668" y="19.812" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
 <element name="U$17" library="top" package="100MA6" value="" x="7.493" y="68.453" smashed="yes" rot="R270"/>
 <element name="U$18" library="top" package="500MA101" value="" x="13.589" y="68.453" smashed="yes" rot="R270"/>
@@ -8972,6 +9093,7 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <element name="U$14" library="SparkFun-MicroMod" package="MICROMOD_LOGO_1" value="" x="59.817" y="23.495" smashed="yes" rot="MR0"/>
 <element name="U$20" library="SparkFun-Aesthetics" package="QWIIC_3MM" value="" x="2.54" y="20.32" smashed="yes"/>
 <element name="U$21" library="top" package="STANDOFF501" value="" x="3.556" y="19.177" smashed="yes"/>
+<element name="U$22" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="31.75" y="66.04" smashed="yes"/>
 </elements>
 <signals>
 <signal name="V_BKCP">
