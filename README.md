@@ -22,7 +22,7 @@ Documentation
 Product Versions
 ----------------
 
-* [SEN-18632](https://www.sparkfun.com/products/18575)- Initial release
+* [DEV-18632](https://www.sparkfun.com/products/18575)- Initial release
 
 
 Version History
