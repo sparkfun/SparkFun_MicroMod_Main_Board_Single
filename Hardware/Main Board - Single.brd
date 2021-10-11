@@ -200,7 +200,7 @@
 <wire x1="0" y1="73.66" x2="86.36" y2="73.66" width="0.2032" layer="20"/>
 <wire x1="86.36" y1="73.66" x2="86.36" y2="0" width="0.2032" layer="20"/>
 <wire x1="0" y1="73.66" x2="0" y2="0" width="0.2032" layer="20"/>
-<text x="9.9568" y="1.4224" size="1.27" layer="16" font="vector" ratio="15" rot="MR0" align="center">v10</text>
+<text x="9.9568" y="1.4224" size="1.27" layer="16" font="vector" ratio="15" rot="MR0" align="center">v11</text>
 <text x="43.18" y="-25.654" size="1.778" layer="51" font="vector">Elias Santistevan</text>
 <text x="34.29" y="87.884" size="1.778" layer="47" font="vector" ratio="15">Units in Inches</text>
 <dimension x1="0" y1="71.12" x2="86.36" y2="71.12" x3="43.18" y3="80.01" textsize="1.778" layer="47" unit="inch"/>

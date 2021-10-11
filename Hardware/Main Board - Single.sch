@@ -27137,7 +27137,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="205.74" y1="152.4" x2="205.74" y2="50.8" width="0.2032" layer="97" style="longdash"/>
 <text x="88.9" y="269.24" size="2.54" layer="94" font="vector" align="center">Function Board Connectors</text>
 <text x="99.06" y="144.78" size="2.54" layer="94" font="vector" align="center">Processor Board Connector</text>
-<text x="424.18" y="7.62" size="2.54" layer="94" font="vector" align="center">v10</text>
+<text x="424.18" y="7.62" size="2.54" layer="94" font="vector" align="center">v11</text>
 <text x="266.7" y="104.14" size="2.54" layer="94" font="vector" align="center">microSD Card</text>
 <text x="401.32" y="185.42" size="2.54" layer="94" font="vector" align="center">Connectors</text>
 <text x="88.9" y="243.84" size="2.54" layer="94" font="vector" align="center">FC0</text>
