@@ -1,7 +1,7 @@
 SparkFun MicroMod Main Board - Single
 ========================================
 
-[![SparkFun MicroMod Main Board - Single](URL for picture of part)](https://www.sparkfun.com/products/18575)
+[![SparkFun MicroMod Main Board - Single](https://cdn.sparkfun.com/assets/parts/1/8/0/4/2/18575-SparkFun_MicroMod_Main_Board_-_Single-01.jpg)](https://www.sparkfun.com/products/18575)
 
 [*SparkFun MicroMod Main Board - Single (DEV-18575)*](https://www.sparkfun.com/products/18575)
 
