@@ -28,7 +28,7 @@ Product Versions
 Version History
 ---------------
 
-* v1.0 - Initial Release
+* v1.1 - Initial Release
 
 
 License Information
