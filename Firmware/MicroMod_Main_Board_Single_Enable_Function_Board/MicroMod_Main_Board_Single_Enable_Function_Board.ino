@@ -25,7 +25,6 @@
   Buy a board from SparkFun!
        MicroMod Artemis Processor Board - https://www.sparkfun.com/products/16401
        MicroMod Main Board - Single - https://www.sparkfun.com/products/18575
-       MicroMod Main Board - Double - https://www.sparkfun.com/products/18576
        MicroMod Environmental Function Board - https://www.sparkfun.com/products/18632
 
   LICENSE: This code is released under the MIT License (http://opensource.org/licenses/MIT)
