@@ -10,6 +10,7 @@ SparkFun MicroMod Main Board - Single
 Repository Contents
 -------------------
 
+* **/Firmware** - Arduino example code from the tutorial
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Production** - Production panel files (.brd)
 
