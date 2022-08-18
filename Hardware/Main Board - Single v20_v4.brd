@@ -199,7 +199,7 @@
 <wire x1="86.36" y1="0" x2="0" y2="0" width="0.2032" layer="20"/>
 <wire x1="0" y1="0" x2="0" y2="73.66" width="0.2032" layer="20"/>
 <wire x1="86.36" y1="0" x2="86.36" y2="73.66" width="0.2032" layer="20"/>
-<text x="76.1492" y="71.7296" size="1.27" layer="16" font="vector" ratio="15" rot="MR180" align="center">v13</text>
+<text x="76.1492" y="71.7296" size="1.27" layer="16" font="vector" ratio="15" rot="MR180" align="center">v20</text>
 <text x="43.18" y="-25.654" size="1.778" layer="51" font="vector">Elias Santistevan</text>
 <text x="50.673" y="-14.859" size="1.778" layer="47" font="vector" ratio="15" rot="R180">Units in Inches</text>
 <dimension x1="86.36" y1="2.54" x2="0" y2="2.54" x3="43.18" y3="-12.065" textsize="1.778" layer="47" unit="inch"/>
@@ -16640,7 +16640,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="80.686625" y1="10.9564" x2="78.994" y2="10.9564" width="0.2032" layer="1"/>
 <wire x1="78.994" y1="10.9564" x2="78.9596" y2="10.922" width="0.2032" layer="16"/>
 <wire x1="78.9596" y1="10.922" x2="69.7738" y2="10.922" width="0.2032" layer="16"/>
-<wire x1="56.476" y1="50.038" x2="56.576" y2="50.138" width="0.5588" layer="1"/>
 <wire x1="56.476" y1="50.038" x2="57.404" y2="50.038" width="0.5588" layer="1"/>
 <wire x1="57.404" y1="50.038" x2="58.039" y2="50.673" width="0.5588" layer="1"/>
 <wire x1="58.039" y1="50.673" x2="58.039" y2="52.705" width="0.5588" layer="1"/>
@@ -17804,9 +17803,9 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 </polygon>
 <contactref element="U3" pad="5"/>
 <wire x1="78.3336" y1="63.4492" x2="78.3336" y2="64.2112" width="0.2032" layer="1"/>
-<wire x1="76.0003" y1="63.246" x2="74.93" y2="63.246" width="0.2032" layer="1"/>
-<via x="74.93" y="63.246" extent="1-16" drill="0.3048"/>
-<wire x1="74.93" y1="63.246" x2="79.3242" y2="63.246" width="0.2032" layer="16"/>
+<wire x1="76.0003" y1="63.246" x2="74.9046" y2="63.246" width="0.2032" layer="1"/>
+<via x="74.9046" y="63.246" extent="1-16" drill="0.3048"/>
+<wire x1="74.9046" y1="63.246" x2="79.3242" y2="63.246" width="0.2032" layer="16"/>
 </signal>
 <signal name="N$6">
 <contactref element="U2" pad="5"/>
@@ -17992,26 +17991,26 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
 </mfgpreviewcolors>
 <errors>
-<approved hash="19,16,88824ecf0557093b"/>
-<approved hash="19,1,79d1d8bef67d7b2c"/>
-<approved hash="19,16,5e1cd265cca64d2b"/>
-<approved hash="19,16,8b8ba9afbb17a539"/>
 <approved hash="3,1,aa606f206c05a945"/>
 <approved hash="3,1,64be094009ca6434"/>
 <approved hash="3,16,5def38af3b2b5e6b"/>
 <approved hash="3,16,558c552334bfa9ca"/>
 <approved hash="3,16,de35e575e475df35"/>
-<approved hash="19,1,901c62144d495397"/>
-<approved hash="19,16,bd0b97ec5e169ef9"/>
-<approved hash="19,16,8c88276cee90af7e"/>
-<approved hash="19,16,4f11c0979c569f84"/>
-<approved hash="19,16,eccb46b18f55cf39"/>
 <approved hash="3,1,a2f522c7e1083877"/>
 <approved hash="3,1,d0cb55ec364febd4"/>
 <approved hash="3,1,91bd00cd00cf91bf"/>
 <approved hash="3,1,78910a510af57835"/>
 <approved hash="3,16,bdb07ef07f92bcd2"/>
 <approved hash="3,16,f52bf82b38ebbd30"/>
+<approved hash="19,1,0a1800b8d6b8da18"/>
+<approved hash="19,1,db81d08f06720a85"/>
+<approved hash="19,16,f7c38da2bba5a7c3"/>
+<approved hash="19,16,1481108105053881"/>
+<approved hash="19,16,53d65785938d93de"/>
+<approved hash="19,16,52a75574918e92bb"/>
+<approved hash="19,16,52a65775938d92be"/>
+<approved hash="19,16,6f3d393ae5bf9d0d"/>
+<approved hash="19,16,f618cc783a762618"/>
 </errors>
 </board>
 </drawing>
