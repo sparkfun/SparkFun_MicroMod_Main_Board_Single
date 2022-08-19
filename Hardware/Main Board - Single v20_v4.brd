@@ -13957,7 +13957,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <contactref element="J7" pad="4"/>
 <via x="3.3782" y="11.43" extent="1-16" drill="0.3048"/>
 <via x="76.2254" y="15.3416" extent="1-16" drill="0.3048"/>
-<wire x1="56.476" y1="50.038" x2="50.634" y2="51.308" width="0" layer="19" extent="1-1"/>
+<via x="56.515" y="48.768" extent="1-16" drill="0.3048"/>
+<via x="48.26" y="44.958" extent="1-16" drill="0.3048"/>
 </signal>
 <signal name="V_BATT" class="1">
 <contactref element="U2" pad="3"/>
@@ -14146,7 +14147,7 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="39.2176" y1="5.1308" x2="39.1922" y2="5.1562" width="0.5588" layer="1"/>
 <contactref element="I2C_PU" pad="2"/>
 <wire x1="48.2604" y1="43.9372" x2="49.1006" y2="44.7774" width="0.5588" layer="1"/>
-<wire x1="49.1006" y1="44.7774" x2="54.61" y2="44.7774" width="0.5588" layer="1"/>
+<wire x1="49.1006" y1="44.7774" x2="53.721" y2="44.7774" width="0.5588" layer="1"/>
 <wire x1="64.008" y1="9.652" x2="64.008" y2="5.1562" width="0.5588" layer="16"/>
 <via x="64.008" y="5.1562" extent="1-16" drill="0.3048"/>
 <wire x1="7.2698" y1="7.6648" x2="7.2698" y2="11.0608" width="0.254" layer="1"/>
@@ -14180,9 +14181,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="69.723" y1="10.8712" x2="69.723" y2="10.922" width="0.5588" layer="1"/>
 <wire x1="57.4324" y1="52.6875375" x2="57.0179375" y2="53.102" width="0.5588" layer="1"/>
 <wire x1="56.576" y1="53.102" x2="57.0179375" y2="53.102" width="0.5588" layer="1"/>
-<wire x1="57.4324" y1="47.5998" x2="57.4324" y2="52.6875375" width="0.5588" layer="1"/>
-<wire x1="54.61" y1="44.7774" x2="57.4324" y2="47.5998" width="0.5588" layer="1"/>
-<wire x1="11.43" y1="5.1308" x2="11.43" y2="5.1308" width="0.5588" layer="16"/>
+<wire x1="57.4324" y1="48.4888" x2="57.4324" y2="52.6875375" width="0.5588" layer="1"/>
+<wire x1="53.721" y1="44.7774" x2="57.4324" y2="48.4888" width="0.5588" layer="1"/>
 </signal>
 <signal name="3.3V_EN">
 <contactref element="J1" pad="4"/>
