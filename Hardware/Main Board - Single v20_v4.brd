@@ -12336,6 +12336,184 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="1.02" y="-0.24"/>
 </polygon>
 </package>
+<package name="QWC4">
+<polygon width="0.01" layer="21">
+<vertex x="-0.91" y="-0.16"/>
+<vertex x="-0.89" y="-0.1"/>
+<vertex x="-0.88" y="-0.03"/>
+<vertex x="-0.88" y="0.04"/>
+<vertex x="-0.89" y="0.11"/>
+<vertex x="-0.9" y="0.17"/>
+<vertex x="-0.93" y="0.23"/>
+<vertex x="-0.96" y="0.29"/>
+<vertex x="-1" y="0.34"/>
+<vertex x="-1.06" y="0.39"/>
+<vertex x="-1.11" y="0.43"/>
+<vertex x="-1.17" y="0.46"/>
+<vertex x="-1.23" y="0.49"/>
+<vertex x="-1.3" y="0.5"/>
+<vertex x="-1.37" y="0.5"/>
+<vertex x="-1.43" y="0.49"/>
+<vertex x="-1.5" y="0.48"/>
+<vertex x="-1.56" y="0.45"/>
+<vertex x="-1.62" y="0.42"/>
+<vertex x="-1.67" y="0.38"/>
+<vertex x="-1.72" y="0.33"/>
+<vertex x="-1.75" y="0.27"/>
+<vertex x="-1.78" y="0.21"/>
+<vertex x="-1.81" y="0.15"/>
+<vertex x="-1.82" y="0.08"/>
+<vertex x="-1.82" y="0.01"/>
+<vertex x="-1.82" y="-0.06"/>
+<vertex x="-1.81" y="-0.12"/>
+<vertex x="-1.78" y="-0.18"/>
+<vertex x="-1.59" y="-0.1"/>
+<vertex x="-1.59" y="0.04"/>
+<vertex x="-1.58" y="0.1"/>
+<vertex x="-1.55" y="0.16"/>
+<vertex x="-1.5" y="0.21"/>
+<vertex x="-1.45" y="0.25"/>
+<vertex x="-1.38" y="0.27"/>
+<vertex x="-1.32" y="0.27"/>
+<vertex x="-1.26" y="0.25"/>
+<vertex x="-1.2" y="0.21"/>
+<vertex x="-1.15" y="0.16"/>
+<vertex x="-1.12" y="0.1"/>
+<vertex x="-1.11" y="0.03"/>
+<vertex x="-1.11" y="-0.04"/>
+<vertex x="-1.13" y="-0.1"/>
+<vertex x="-1.17" y="-0.16"/>
+<vertex x="-1.22" y="-0.2"/>
+<vertex x="-1.28" y="-0.23"/>
+<vertex x="-1.34" y="-0.24"/>
+<vertex x="-1.41" y="-0.24"/>
+<vertex x="-1.47" y="-0.21"/>
+<vertex x="-1.53" y="-0.16"/>
+<vertex x="-1.57" y="-0.12"/>
+<vertex x="-1.59" y="-0.1"/>
+<vertex x="-1.78" y="-0.19"/>
+<vertex x="-1.75" y="-0.24"/>
+<vertex x="-1.71" y="-0.3"/>
+<vertex x="-1.66" y="-0.35"/>
+<vertex x="-1.61" y="-0.39"/>
+<vertex x="-1.55" y="-0.43"/>
+<vertex x="-1.49" y="-0.45"/>
+<vertex x="-1.43" y="-0.47"/>
+<vertex x="-1.36" y="-0.47"/>
+<vertex x="-1.29" y="-0.47"/>
+<vertex x="-1.22" y="-0.46"/>
+<vertex x="-1.16" y="-0.44"/>
+<vertex x="-1.1" y="-0.4"/>
+<vertex x="-1.05" y="-0.39"/>
+<vertex x="-0.99" y="-0.44"/>
+<vertex x="-0.93" y="-0.47"/>
+<vertex x="-0.88" y="-0.46"/>
+<vertex x="-0.83" y="-0.4"/>
+<vertex x="-0.8" y="-0.34"/>
+<vertex x="-0.81" y="-0.29"/>
+<vertex x="-0.86" y="-0.24"/>
+<vertex x="-0.93" y="-0.2"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="0.56" y="0.47"/>
+<vertex x="0.5" y="0.49"/>
+<vertex x="0.44" y="0.45"/>
+<vertex x="0.28" y="0.01"/>
+<vertex x="0.26" y="-0.01"/>
+<vertex x="0.13" y="0.38"/>
+<vertex x="0.11" y="0.44"/>
+<vertex x="0.05" y="0.48"/>
+<vertex x="-0.02" y="0.47"/>
+<vertex x="-0.07" y="0.44"/>
+<vertex x="-0.1" y="0.37"/>
+<vertex x="-0.23" y="-0.01"/>
+<vertex x="-0.25" y="0.01"/>
+<vertex x="-0.38" y="0.4"/>
+<vertex x="-0.41" y="0.46"/>
+<vertex x="-0.46" y="0.49"/>
+<vertex x="-0.53" y="0.47"/>
+<vertex x="-0.6" y="0.43"/>
+<vertex x="-0.61" y="0.38"/>
+<vertex x="-0.59" y="0.31"/>
+<vertex x="-0.34" y="-0.4"/>
+<vertex x="-0.31" y="-0.45"/>
+<vertex x="-0.24" y="-0.47"/>
+<vertex x="-0.18" y="-0.46"/>
+<vertex x="-0.13" y="-0.4"/>
+<vertex x="-0.05" y="-0.17"/>
+<vertex x="0.02" y="0.04"/>
+<vertex x="0.15" y="-0.35"/>
+<vertex x="0.17" y="-0.41"/>
+<vertex x="0.22" y="-0.46"/>
+<vertex x="0.29" y="-0.47"/>
+<vertex x="0.35" y="-0.44"/>
+<vertex x="0.39" y="-0.39"/>
+<vertex x="0.63" y="0.32"/>
+<vertex x="0.65" y="0.39"/>
+<vertex x="0.63" y="0.43"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="1.48" y="-0.21"/>
+<vertex x="1.42" y="-0.24"/>
+<vertex x="1.35" y="-0.24"/>
+<vertex x="1.29" y="-0.24"/>
+<vertex x="1.23" y="-0.21"/>
+<vertex x="1.17" y="-0.17"/>
+<vertex x="1.13" y="-0.12"/>
+<vertex x="1.11" y="-0.06"/>
+<vertex x="1.1" y="0.01"/>
+<vertex x="1.1" y="0.08"/>
+<vertex x="1.13" y="0.14"/>
+<vertex x="1.17" y="0.2"/>
+<vertex x="1.22" y="0.23"/>
+<vertex x="1.29" y="0.26"/>
+<vertex x="1.35" y="0.27"/>
+<vertex x="1.42" y="0.26"/>
+<vertex x="1.48" y="0.24"/>
+<vertex x="1.54" y="0.2"/>
+<vertex x="1.59" y="0.2"/>
+<vertex x="1.64" y="0.25"/>
+<vertex x="1.68" y="0.31"/>
+<vertex x="1.68" y="0.37"/>
+<vertex x="1.63" y="0.42"/>
+<vertex x="1.57" y="0.45"/>
+<vertex x="1.51" y="0.48"/>
+<vertex x="1.44" y="0.49"/>
+<vertex x="1.37" y="0.5"/>
+<vertex x="1.31" y="0.5"/>
+<vertex x="1.24" y="0.49"/>
+<vertex x="1.18" y="0.47"/>
+<vertex x="1.11" y="0.44"/>
+<vertex x="1.06" y="0.4"/>
+<vertex x="1" y="0.36"/>
+<vertex x="0.96" y="0.31"/>
+<vertex x="0.93" y="0.25"/>
+<vertex x="0.9" y="0.19"/>
+<vertex x="0.88" y="0.13"/>
+<vertex x="0.87" y="0.06"/>
+<vertex x="0.87" y="-0.01"/>
+<vertex x="0.88" y="-0.08"/>
+<vertex x="0.89" y="-0.14"/>
+<vertex x="0.92" y="-0.21"/>
+<vertex x="0.95" y="-0.26"/>
+<vertex x="0.99" y="-0.31"/>
+<vertex x="1.04" y="-0.36"/>
+<vertex x="1.1" y="-0.4"/>
+<vertex x="1.16" y="-0.43"/>
+<vertex x="1.22" y="-0.45"/>
+<vertex x="1.29" y="-0.47"/>
+<vertex x="1.35" y="-0.47"/>
+<vertex x="1.42" y="-0.47"/>
+<vertex x="1.49" y="-0.45"/>
+<vertex x="1.56" y="-0.43"/>
+<vertex x="1.61" y="-0.4"/>
+<vertex x="1.66" y="-0.36"/>
+<vertex x="1.68" y="-0.3"/>
+<vertex x="1.65" y="-0.23"/>
+<vertex x="1.59" y="-0.18"/>
+<vertex x="1.55" y="-0.17"/>
+</polygon>
+</package>
 </packages>
 </library>
 <library name="dip_switch">
@@ -13329,9 +13507,9 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <element name="H4" library="SparkFun-Hardware" package="STAND-OFF-REFLOW-M2.5" value="STAND-OFF-REFLOW-M2.5_2.5MM_TALL" x="43.1924" y="52.6796" smashed="yes" rot="R90">
 <attribute name="PROD_ID" value="HW-14899" x="43.1924" y="52.6796" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="U$4" library="top" package="3V332533" value="" x="85.344" y="42.164" smashed="yes" rot="R90"/>
-<element name="U$5" library="top" package="VIN32532" value="" x="85.344" y="45.72" smashed="yes" rot="R90"/>
-<element name="U$6" library="top" package="CHG32531" value="" x="85.344" y="38.1" smashed="yes" rot="R90"/>
+<element name="U$4" library="top" package="3V332533" value="" x="85.344" y="38.862" smashed="yes" rot="R90"/>
+<element name="U$5" library="top" package="VIN32532" value="" x="85.344" y="46.228" smashed="yes" rot="R90"/>
+<element name="U$6" library="top" package="CHG32531" value="" x="85.344" y="35.179" smashed="yes" rot="R90"/>
 <element name="U$8" library="top" package="BOOT32541" value="" x="77.724" y="30.734" smashed="yes" rot="R90"/>
 <element name="U$9" library="top" package="RESET32540" value="" x="77.851" y="23.876" smashed="yes" rot="R90"/>
 <element name="U$10" library="top" package="PROCESSOR525" value="" x="59.055" y="18.415" smashed="yes"/>
@@ -13502,6 +13680,7 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <element name="U$29" library="top" package="#GND#3" value="" x="3.937" y="17.78" smashed="yes" rot="MR0"/>
 <element name="U$32" library="top" package="SWD6522" value="" x="80.645" y="12.7" smashed="yes" rot="MR90"/>
 <element name="U$34" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="" x="49.53" y="7.62" smashed="yes"/>
+<element name="U$35" library="top" package="QWC4" value="" x="85.344" y="42.545" smashed="yes" rot="R90"/>
 </elements>
 <signals>
 <signal name="V_BKCP">
