@@ -34038,7 +34038,7 @@ Good for deep sleep power considerations.</text>
 <junction x="251.46" y="99.06"/>
 </segment>
 </net>
-<net name="2S2_MULTIPLEXER" class="0">
+<net name="RX1/2S2" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="2S2"/>
 <wire x1="254" y1="30.48" x2="251.46" y2="30.48" width="0.1524" layer="91"/>
@@ -34050,7 +34050,7 @@ Good for deep sleep power considerations.</text>
 <label x="259.08" y="15.24" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="1S2_MULTIPLEXER" class="0">
+<net name="TX1/1S2" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="1S2"/>
 <wire x1="254" y1="38.1" x2="251.46" y2="38.1" width="0.1524" layer="91"/>
@@ -34062,7 +34062,7 @@ Good for deep sleep power considerations.</text>
 <label x="259.08" y="17.78" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="2IN_MULTIPLEXER" class="0">
+<net name="!SEL!/2IN" class="0">
 <segment>
 <pinref part="J7" gate="J1" pin="3"/>
 <wire x1="259.08" y1="12.7" x2="264.16" y2="12.7" width="0.1524" layer="91"/>
