@@ -31973,7 +31973,9 @@ fabricated in silicon gate CMOS technology&lt;/p&gt;</description>
 <connect gate="G$1" pin="VCC" pad="P11"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="PROD_ID" value="IC-17058" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>

@@ -13427,6 +13427,7 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 </element>
 <element name="U1" library="dip_switch" package="STG3856" value="STG3856QTR" x="7.2898" y="6.6548" smashed="yes">
 <attribute name="NAME" x="5.6388" y="8.0518" size="0.6096" layer="25" font="vector" ratio="20"/>
+<attribute name="PROD_ID" value="IC-17058" x="7.2898" y="6.6548" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="5.5118" y="4.7498" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="SHLD" library="SparkFun-Jumpers" package="SMT-JUMPER_2_NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39281/1" value="JUMPER-SMT_2_NC_TRACE_SILK" x="71.374" y="70.0278" smashed="yes" rot="MR180">
