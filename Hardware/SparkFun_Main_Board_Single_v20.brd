@@ -13481,7 +13481,7 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 </element>
 <element name="U4" library="dip_switch" package="SOT25" value="AP7347DQ-33W5-7K-3.3V" x="50.038" y="54.102" smashed="yes">
 <attribute name="NAME" x="48.514" y="56.388" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="" x="50.038" y="54.102" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="VREG-17101" x="50.038" y="54.102" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="C1" library="SparkFun-Capacitors" package="0603" value="1.0uF" x="49.784" y="56.896" smashed="yes">
 <attribute name="NAME" x="49.784" y="57.658" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>

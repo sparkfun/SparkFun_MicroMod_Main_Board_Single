@@ -32015,7 +32015,7 @@ fabricated in silicon gate CMOS technology&lt;/p&gt;</description>
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value=""/>
+<attribute name="PROD_ID" value="VREG-17101"/>
 </technology>
 </technologies>
 </device>
