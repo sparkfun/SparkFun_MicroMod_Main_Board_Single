@@ -32212,7 +32212,7 @@ fabricated in silicon gate CMOS technology&lt;/p&gt;</description>
 <wire x1="431.8" y1="132.08" x2="365.76" y2="132.08" width="0.2032" layer="97" style="longdash"/>
 <text x="96.774" y="123.952" size="2.54" layer="94" font="vector" align="center">Function Board Connectors</text>
 <text x="95.25" y="271.526" size="2.54" layer="94" font="vector" align="center">Processor Board Connector</text>
-<text x="424.18" y="7.62" size="2.54" layer="94" font="vector" align="center">v20</text>
+<text x="424.18" y="7.62" size="2.54" layer="94" font="vector" align="center">v21</text>
 <wire x1="365.76" y1="132.08" x2="330.2" y2="132.08" width="0.2032" layer="97" style="longdash"/>
 <wire x1="330.2" y1="132.08" x2="284.48" y2="132.08" width="0.2032" layer="97" style="longdash"/>
 <wire x1="284.48" y1="132.08" x2="274.32" y2="132.08" width="0.2032" layer="97" style="longdash"/>
@@ -33958,14 +33958,14 @@ Good for deep sleep power considerations.</text>
 </net>
 <net name="PWR_EN0" class="0">
 <segment>
-<wire x1="129.54" y1="210.82" x2="127" y2="210.82" width="0.1524" layer="91"/>
-<pinref part="J1" gate="J1" pin="A1"/>
-<label x="129.54" y="210.82" size="1.27" layer="95" font="vector" xref="yes"/>
-</segment>
-<segment>
 <wire x1="76.2" y1="93.98" x2="73.66" y2="93.98" width="0.1524" layer="91"/>
 <label x="73.66" y="93.98" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 <pinref part="J6" gate="J1" pin="PWR_EN"/>
+</segment>
+<segment>
+<wire x1="129.54" y1="205.74" x2="127" y2="205.74" width="0.1524" layer="91"/>
+<label x="129.54" y="205.74" size="1.27" layer="95" font="vector" xref="yes"/>
+<pinref part="J1" gate="J1" pin="PWM1"/>
 </segment>
 </net>
 <net name="N$7" class="0">
