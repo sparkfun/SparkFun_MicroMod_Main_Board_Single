@@ -6,12 +6,15 @@
 
   SD card attached to SPI bus as follows:
 
-   SD Card  - MicroMod Artemis Processor Board
-   -----------------------------------
-   COPI/SDO - pin 38
-   CIPO/SDI - pin 43
-   CLK      - pin 42
-   CS       - pin 1 (Main Board - Single) or 28 (Main Board - Double)
+   SD Card   <=> MicroMod Main Board <=> Artemis Processor Board
+   -----------------------------------------------------------------
+   SD ENABLE <=>  I2C_SDA1-PROCESSOR <=> pin 9
+   PICO/SDO  <=>  SPI_PROCESSOR_SDO  <=> pin 38
+   POCI/SDI  <=>  SPI_PROCESSOR_SDI  <=> pin 43
+   CLK       <=>  SPI_PROCESSOR_CLK  <=> pin 42
+   CS        <=>  D1_PROCESSOR       <=> pin 1 (Main Board - Single)
+   or ...
+   CS        <=>  G4_PROCESSOR       <=> pin 28 (Main Board - Double)
 
   created   Nov 2010
   by David A. Mellis
@@ -25,9 +28,11 @@
 #include <SPI.h>
 #include <SD.h>
 
-//ARTEMIS
-#define SD_CS_PIN 1 // The microSD Card CS pin is D1 for the MicroMod Main Board - Single and Artemis Processor (D1). Adjust for your processor if necessary.
-//#define SD_CS_PIN 28 // The microSD Card's CS pin is G4 for the MicroMod Main Board - Double and Artemis Processor (D28). Adjust for your processor if necessary.
+//==========ARTEMIS==========
+// The microSD Card CS pin is D1 for the MicroMod Main Board - Single and Artemis Processor (D1). Adjust for your processor if necessary.
+const int SD_CS_PIN = 1;
+// The microSD Card's CS pin is G4 for the MicroMod Main Board - Double and Artemis Processor (D28). Adjust for your processor if necessary.
+//const int SD_CS_PIN = 28; 
 
 File myFile;
 
