@@ -11,7 +11,7 @@
    SD ENABLE <=>  I2C_SDA1-PROCESSOR <=> pin 9
    PICO/SDO  <=>  SPI_PROCESSOR_SDO  <=> pin 38
    POCI/SDI  <=>  SPI_PROCESSOR_SDI  <=> pin 43
-   CLK       <=>  SPI_PROCESSOR_CLK  <=> pin 42
+   CLK       <=>  SPI_PROCESSOR_SCK  <=> pin 42
    CS        <=>  D1_PROCESSOR       <=> pin 1 (Main Board - Single)
    or ...
    CS        <=>  G4_PROCESSOR       <=> pin 28 (Main Board - Double)
@@ -34,9 +34,16 @@ const int SD_CS_PIN = 1;
 // The microSD Card's CS pin is G4 for the MicroMod Main Board - Double and Artemis Processor (D28). Adjust for your processor if necessary.
 //const int SD_CS_PIN = 28; 
 
+// The microSD Card CS pin is SDA1 for the MicroMod Main Board - Single and Artemis Processor (D9). Adjust for your processor if necessary.
+const int SD_ENABLE = 9;
+
 File myFile;
 
 void setup() {
+
+  pinMode(SD_ENABLE, OUTPUT);  //sets the digital pin as output
+  digitalWrite(SD_ENABLE, LOW);  //Power MicroSD card socket, pin is active low
+
   // Open serial communications and wait for port to open:
   Serial.begin(9600);
   while (!Serial) {
@@ -83,8 +90,12 @@ void setup() {
     // if the file didn't open, print an error:
     Serial.println("error opening test.txt");
   }
-}
+
+  digitalWrite(SD_ENABLE, HIGH);  //remove power from MicroSD card socket for low power applications
+
+}// end setup()
 
 void loop() {
   // nothing happens after setup
-}
+
+}//end loop()
