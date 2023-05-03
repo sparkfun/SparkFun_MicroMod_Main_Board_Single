@@ -270,26 +270,25 @@ You are welcome to use this library for commercial purposes. For attribution, we
 &lt;li&gt;&lt;/li&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-<text x="0.016" y="4.56633125" size="0.6096" layer="25">&gt;NAME</text>
-<text x="0.016" y="-1.29633125" size="0.6096" layer="27">&gt;VALUE</text>
-<smd name="1" x="-1.478" y="0.775" dx="0.6" dy="1.55" layer="1"/>
-<smd name="2" x="-0.478" y="0.775" dx="0.6" dy="1.55" layer="1"/>
-<smd name="3" x="0.522" y="0.775" dx="0.6" dy="1.55" layer="1"/>
-<smd name="4" x="1.522" y="0.775" dx="0.6" dy="1.55" layer="1"/>
-<smd name="NC1" x="-2.778" y="3.2" dx="1.2" dy="2" layer="1"/>
-<smd name="NC2" x="2.822" y="3.2" dx="1.2" dy="2" layer="1"/>
-<wire x1="1.912" y1="3.87" x2="-1.878" y2="3.87" width="0.2032" layer="21"/>
-<wire x1="-3.218" y1="1.33" x2="-3.218" y2="0.68" width="0.2032" layer="21"/>
-<wire x1="-3.218" y1="0.68" x2="-2.458" y2="0.68" width="0.2032" layer="21"/>
-<wire x1="3.272" y1="1.35" x2="3.272" y2="0.66" width="0.2032" layer="21"/>
-<wire x1="3.272" y1="0.66" x2="2.542" y2="0.66" width="0.2032" layer="21"/>
-<circle x="-1.948" y="-0.43" radius="0.2032" width="0" layer="21"/>
-<wire x1="-2.921" y1="3.556" x2="-3.302" y2="3.556" width="0.1" layer="51"/>
-<wire x1="-3.302" y1="3.556" x2="-3.302" y2="3.175" width="0.1" layer="51"/>
-<wire x1="-3.302" y1="3.175" x2="-2.921" y2="3.175" width="0.1" layer="51"/>
-<wire x1="2.945" y1="3.154" x2="3.326" y2="3.154" width="0.1" layer="51"/>
-<wire x1="3.326" y1="3.154" x2="3.326" y2="3.535" width="0.1" layer="51"/>
-<wire x1="3.326" y1="3.535" x2="2.945" y2="3.535" width="0.1" layer="51"/>
+<text x="0" y="4.445" size="0.6096" layer="25" font="vector">&gt;NAME</text>
+<text x="0" y="2.54" size="0.6096" layer="27" font="vector">&gt;VALUE</text>
+<smd name="1" x="-1.5" y="0.775" dx="0.6" dy="1.55" layer="1"/>
+<smd name="2" x="-0.5" y="0.775" dx="0.6" dy="1.55" layer="1"/>
+<smd name="3" x="0.5" y="0.775" dx="0.6" dy="1.55" layer="1"/>
+<smd name="4" x="1.5" y="0.775" dx="0.6" dy="1.55" layer="1"/>
+<smd name="NC1" x="-2.8" y="3.2" dx="1.2" dy="2" layer="1"/>
+<smd name="NC2" x="2.8" y="3.2" dx="1.2" dy="2" layer="1"/>
+<wire x1="1.905" y1="3.937" x2="-1.905" y2="3.937" width="0.254" layer="21"/>
+<wire x1="-3.175" y1="1.397" x2="-3.175" y2="0.635" width="0.254" layer="21"/>
+<wire x1="-3.175" y1="0.635" x2="-2.413" y2="0.635" width="0.254" layer="21"/>
+<wire x1="3.175" y1="1.397" x2="3.175" y2="0.635" width="0.254" layer="21"/>
+<wire x1="3.175" y1="0.635" x2="2.413" y2="0.635" width="0.254" layer="21"/>
+<wire x1="-3" y1="3.5" x2="-3.3" y2="3.5" width="0.1" layer="51"/>
+<wire x1="-3.3" y1="3.5" x2="-3.3" y2="3" width="0.1" layer="51"/>
+<wire x1="-3.3" y1="3" x2="-3" y2="3" width="0.1" layer="51"/>
+<wire x1="3" y1="3" x2="3.3" y2="3" width="0.1" layer="51"/>
+<wire x1="3.3" y1="3" x2="3.3" y2="3.5" width="0.1" layer="51"/>
+<wire x1="3.3" y1="3.5" x2="3" y2="3.5" width="0.1" layer="51"/>
 </package>
 <package name="JST04_1MM_RA">
 <description>&lt;h3&gt;SMD- 4 Pin Right Angle &lt;/h3&gt;
@@ -4598,13 +4597,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="-1.6" y1="-0.7" x2="-1.6" y2="0.7" width="0.0508" layer="39"/>
 <wire x1="-0.356" y1="0.432" x2="0.356" y2="0.432" width="0.1016" layer="51"/>
 <wire x1="-0.356" y1="-0.419" x2="0.356" y2="-0.419" width="0.1016" layer="51"/>
+<rectangle x1="-0.8382" y1="-0.4699" x2="-0.3381" y2="0.4801" layer="51"/>
+<rectangle x1="0.3302" y1="-0.4699" x2="0.8303" y2="0.4801" layer="51"/>
+<rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
 <smd name="1" x="-0.85" y="0" dx="1.1" dy="1" layer="1"/>
 <smd name="2" x="0.85" y="0" dx="1.1" dy="1" layer="1"/>
 <text x="0" y="0.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
 <text x="0" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
-<rectangle x1="-0.8382" y1="-0.4699" x2="-0.3381" y2="0.4801" layer="51"/>
-<rectangle x1="0.3302" y1="-0.4699" x2="0.8303" y2="0.4801" layer="51"/>
-<rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
 </package>
 </packages>
 </library>
@@ -14262,10 +14261,7 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="46.738" y1="68.558" x2="46.76" y2="68.58" width="0.2032" layer="1"/>
 <contactref element="J6" pad="21"/>
 <contactref element="R15" pad="1"/>
-<wire x1="46.738" y1="63.995" x2="46.738" y2="68.558" width="0.2032" layer="1"/>
 <wire x1="29.1338" y1="7.1628" x2="38.227" y2="7.1628" width="0.2032" layer="16"/>
-<wire x1="46.738" y1="63.995" x2="46.8376" y2="63.8954" width="0.2032" layer="1"/>
-<wire x1="46.8376" y1="63.8954" x2="46.8376" y2="38.8366" width="0.2032" layer="1"/>
 <wire x1="60.4266" y1="24.5364" x2="60.4266" y2="10.886825" width="0.2032" layer="1"/>
 <via x="38.227" y="7.1628" extent="1-16" drill="0.3048"/>
 <wire x1="58.0136" y1="37.1856" x2="58.1152" y2="37.084" width="0.2032" layer="16"/>
@@ -14282,6 +14278,9 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="62.992" y1="9.779" x2="62.992" y2="10.502" width="0.2032" layer="1"/>
 <wire x1="62.992" y1="10.502" x2="60.811425" y2="10.502" width="0.2032" layer="1"/>
 <wire x1="60.811425" y1="10.502" x2="60.4266" y2="10.886825" width="0.2032" layer="1"/>
+<wire x1="46.76" y1="63.995" x2="46.76" y2="68.58" width="0.2032" layer="1"/>
+<wire x1="46.76" y1="63.995" x2="46.8376" y2="63.9174" width="0.2032" layer="1"/>
+<wire x1="46.8376" y1="63.9174" x2="46.8376" y2="38.8366" width="0.2032" layer="1"/>
 </signal>
 <signal name="I2C_SDA">
 <contactref element="J2" pad="3"/>
@@ -14300,10 +14299,9 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="61.3156" y1="24.4348" x2="62.484" y2="25.6032" width="0.2032" layer="16"/>
 <wire x1="57.15" y1="38.8112" x2="57.9628" y2="37.9984" width="0.2032" layer="1"/>
 <wire x1="48.2968" y1="38.8112" x2="57.15" y2="38.8112" width="0.2032" layer="1"/>
-<wire x1="47.76" y1="64.017" x2="47.738" y2="63.995" width="0.2032" layer="1"/>
 <contactref element="J6" pad="19"/>
 <contactref element="R14" pad="1"/>
-<wire x1="47.76" y1="68.58" x2="47.76" y2="64.017" width="0.2032" layer="1"/>
+<wire x1="47.76" y1="68.58" x2="47.76" y2="63.995" width="0.2032" layer="1"/>
 <wire x1="28.88" y1="6.274" x2="28.88" y2="5.139" width="0.2032" layer="1"/>
 <wire x1="39.0271" y1="6.4389" x2="62.3189" y2="6.4389" width="0.2032" layer="1"/>
 <wire x1="38.989" y1="6.477" x2="39.0271" y2="6.4389" width="0.2032" layer="1"/>
@@ -14323,14 +14321,16 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="63.9548" y1="37.9452" x2="58.016" y2="37.9452" width="0.2032" layer="16"/>
 <wire x1="58.016" y1="37.9452" x2="57.9628" y2="37.9984" width="0.2032" layer="16"/>
 <via x="57.9628" y="37.9984" extent="1-16" drill="0.3048"/>
-<wire x1="47.738" y1="63.995" x2="47.738" y2="39.37" width="0.2032" layer="1"/>
-<wire x1="47.738" y1="39.37" x2="48.2968" y2="38.8112" width="0.2032" layer="1"/>
+<wire x1="47.752" y1="39.356" x2="48.2968" y2="38.8112" width="0.2032" layer="1"/>
 <wire x1="62.3189" y1="6.4389" x2="64.1016" y2="8.2216" width="0.2032" layer="1"/>
 <wire x1="64.1016" y1="8.2216" x2="64.1016" y2="9.3646" width="0.2032" layer="1"/>
 <wire x1="64.1016" y1="9.3646" x2="64.3176" y2="9.5806" width="0.2032" layer="1"/>
 <wire x1="64.3176" y1="9.5806" x2="65.0796" y2="9.5806" width="0.2032" layer="1"/>
 <wire x1="65.0796" y1="9.5806" x2="65.278" y2="9.779" width="0.2032" layer="1"/>
 <wire x1="65.278" y1="9.779" x2="65.278" y2="10.502" width="0.2032" layer="1"/>
+<wire x1="47.76" y1="63.995" x2="47.76" y2="47.030625" width="0.2032" layer="1"/>
+<wire x1="47.76" y1="47.030625" x2="47.752" y2="47.022625" width="0.2032" layer="1"/>
+<wire x1="47.752" y1="47.022625" x2="47.752" y2="39.356" width="0.2032" layer="1"/>
 </signal>
 <signal name="HOST_D-" class="2">
 <contactref element="J1" pad="37"/>
@@ -15402,10 +15402,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <contactref element="J2" pad="2"/>
 <wire x1="48.934" y1="56.896" x2="48.934" y2="58.42" width="0.5588" layer="1"/>
 <wire x1="48.934" y1="58.42" x2="48.934" y2="60.794" width="0.5588" layer="1"/>
-<wire x1="48.738" y1="60.99" x2="48.738" y2="63.995" width="0.5588" layer="1"/>
-<wire x1="48.934" y1="60.794" x2="48.738" y2="60.99" width="0.5588" layer="1"/>
-<wire x1="48.76" y1="68.58" x2="48.76" y2="64.017" width="0.5588" layer="1"/>
-<wire x1="48.76" y1="64.017" x2="48.738" y2="63.995" width="0.5588" layer="1"/>
+<wire x1="48.738" y1="60.99" x2="48.934" y2="60.794" width="0.5588" layer="1"/>
+<wire x1="48.76" y1="68.58" x2="48.76" y2="63.995" width="0.5588" layer="1"/>
 <contactref element="R17" pad="2"/>
 <via x="81.153" y="52.451" extent="1-16" drill="0.3048"/>
 <wire x1="81.153" y1="52.451" x2="50.419" y2="52.451" width="0.2032" layer="16"/>
@@ -15417,6 +15415,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="80.43" y1="40.64" x2="81.2086" y2="41.4186" width="0.2032" layer="1"/>
 <wire x1="48.934" y1="56.896" x2="49.088" y2="56.742" width="0.5588" layer="1"/>
 <wire x1="49.088" y1="56.742" x2="49.088" y2="55.4021" width="0.5588" layer="1"/>
+<wire x1="48.76" y1="63.995" x2="48.76" y2="61.012" width="0.5588" layer="1"/>
+<wire x1="48.76" y1="61.012" x2="48.738" y2="60.99" width="0.5588" layer="1"/>
 </signal>
 <signal name="PWR_EN0">
 <contactref element="J6" pad="71"/>
